@@ -1,1 +1,1 @@
-worker: indexedDB.js
+worker: node bot.js
